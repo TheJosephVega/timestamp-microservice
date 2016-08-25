@@ -8,11 +8,6 @@
     "jade": "^1.11.0",
     "moment": "^2.14.1"
   },
-  "devDependencies": {},
-  "scripts": {
-     "start": "app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Joseph Vega",
   "license": "ISC"
 }

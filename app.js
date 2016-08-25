@@ -1,7 +1,7 @@
 var express = require("express");
 var moment = require('moment');
 var app = express();
-var port = process.env.PORT;
+var port = process.env.PORT || 3000;
 
 app.set('views', './views');
 app.set('view engine', 'jade');
